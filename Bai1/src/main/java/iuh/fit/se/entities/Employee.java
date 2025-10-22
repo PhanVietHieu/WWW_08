@@ -17,7 +17,7 @@ public class Employee {
     private String firstName;
     private String lastName;
     private String gender;
-    private String dateofBirth;
+    private String date_ofBirth;
     private String email;
     private String phone;
 
